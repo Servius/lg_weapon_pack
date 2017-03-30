@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"HUD\killicons\KOTOR\blaster_rifle"
+	$translucent 1
+}

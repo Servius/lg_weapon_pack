@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoff/weapons/tac_insert/_-gviewarm_datapad_c"
+	"$surfaceprop" "Default"
+}
