@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "weapons/taser_ammo/taser"
-	"$surfaceprop" "paper"
-	"$model" 1
-}
